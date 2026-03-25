@@ -16,7 +16,7 @@ This project delivers a comprehensive analysis of retail consumer behavior, desi
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Phantom074/Customer-Shopping-Behaviour.git](https://github.com/Phantom074/Customer-Shopping-Behaviour.git)
+git clone [https://github.com/mukuldhattarwal/Customer-Shopping-Behaviour.git](https://github.com/mukuldhattarwal/Customer-Shopping-Behaviour.git)
 cd Customer-Shopping-Behaviour
 ```
 ### 2. Data Processing (Python)
